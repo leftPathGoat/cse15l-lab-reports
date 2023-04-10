@@ -7,14 +7,14 @@ Step 1: Download the Virtual Studio Code on https://code.visualstudio.com/Downlo
 Step 2: Windows users: install Git(https://gitforwindows.org/)
 ----
 
-Strp 3: Open terminal in VScode by pressing Ctrl + `
+Step 3: Open terminal in VScode by pressing Ctrl + `
 ------
 ![Image](terminal.jpg)
 
-Step 4: 
+##Step 4: 
 Open the command palette by pressing Ctrl + Shift + P and enter Select Default Profile (Click on Git Bash from the options)
 
-Step 5: Now your terminal should have two options when pressing + icon: powershell and bash
+##Step 5: Now your terminal should have two options when pressing + icon: powershell and bash
 ![Image](powershell and bash.jpg)
 
 Step 6: In the terminal, enter command $ ssh cs15lsp23**@ieng6.ucsd.edu (** should be replaced by your own course-specific username)
