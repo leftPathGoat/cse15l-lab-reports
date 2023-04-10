@@ -1,13 +1,18 @@
-Lab Report 1 #Heading 1
+Lab Report 1
+============
 Step 1: Download the Virtual Studio Code on https://code.visualstudio.com/Download (choose the version that match your system)
+----
 ![Image](VScode.jpg)
 
 Step 2: Windows users: install Git(https://gitforwindows.org/)
+----
 
 Strp 3: Open terminal in VScode by pressing Ctrl + `
+------
 ![Image](terminal.jpg)
 
-Step 4: Open the command palette by pressing Ctrl + Shift + P and enter Select Default Profile (Click on Git Bash from the options)
+Step 4: 
+Open the command palette by pressing Ctrl + Shift + P and enter Select Default Profile (Click on Git Bash from the options)
 
 Step 5: Now your terminal should have two options when pressing + icon: powershell and bash
 ![Image](powershell and bash.jpg)
